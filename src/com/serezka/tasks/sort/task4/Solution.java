@@ -14,7 +14,6 @@ public class Solution {
 
         for (int i = 0; i < n; i++)
             dates.add(sf.parse(sc.nextInt() + ":" + sc.nextInt() + ":" + sc.nextInt()));
-
         Collections.sort(dates);
 
         for (Date date : dates)

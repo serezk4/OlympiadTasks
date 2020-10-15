@@ -10,6 +10,8 @@ public class Solution {
         int a = sc.nextInt();
         Entry<Integer, Integer> result = goldbah(a);
         System.out.println(Math.min(result.getKey(), result.getValue()) + " " + Math.max(result.getValue(), result.getKey()));
+
+        
     }
 
     private static Entry<Integer, Integer> goldbah(int a) {

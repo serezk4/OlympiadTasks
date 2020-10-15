@@ -1,6 +1,4 @@
 
-L
-src/com/serezka/tasks/f.java,4/a/4a211ad72273f3b58dd0404cc65509b619130d50
 ^
 .src/com/serezka/tasks/func/task1/Solution.java,d/4/d437f4c876324776d61211c4e0fae4bd54e70b74
 ^
@@ -23,3 +21,9 @@ _
 .src/com/serezka/tasks/func/task9/Solution.java,2/7/276b42c85f5989514e5f26b95ed7b26541d219e2
 ^
 .src/com/serezka/tasks/sort/task1/Solution.java,2/a/2aa302810282b249ff040cd07d58b42b1590ba87
+^
+.src/com/serezka/tasks/sort/task2/Solution.java,3/3/33b9a2bb24a9f1e75edea5b96795a3ffdf4c985e
+^
+.src/com/serezka/tasks/sort/task3/Solution.java,3/e/3e68e2cf2a5da23387e1c2050b9a5f0e3112349c
+^
+.src/com/serezka/tasks/sort/task4/Solution.java,d/c/dc4fa72830759e75a64ab5ff3b03ae8a6dc40293
